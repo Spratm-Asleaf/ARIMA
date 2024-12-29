@@ -12,6 +12,10 @@ Online supplementary materials of the paper titled
 
 **Why Are the ARIMA and SARIMA not Sufficient?**
 
+$\textcolor{red}{\text{\textbf{Note}: The authors decided to keep this paper as a permanent preprint. The file "ARIMA.pdf" above is the authors' final version.}}$ 
+
+([Click to See Final Version](https://github.com/Spratm-Asleaf/ARIMA/blob/main/ARIMA.pdf))
+
 By Shixiong Wang, Chongshou Li, Haobin Shi, and Andrew Lim
 
 From Department of Industrial Systems Engineering and Management, National University of Singapore (S. Wang and A. Lim);
