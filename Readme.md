@@ -16,11 +16,10 @@ $\textcolor{red}{\text{\textbf{Note}: The authors decided to keep this paper as 
 
 ([Click to See Final Version](https://github.com/Spratm-Asleaf/ARIMA/blob/main/ARIMA.pdf))
 
-By Shixiong Wang, Chongshou Li, Haobin Shi, and Andrew Lim
+By Shixiong Wang, Chongshou Li, and Andrew Lim
 
-From Department of Industrial Systems Engineering and Management, National University of Singapore (S. Wang and A. Lim);
-SWJTU-Leeds Joint School and School of Computing and Artificial Intelligence, Southwest Jiaotong University (C. Li);
-School of Computer Science, Northwestern Polytechnical University (H. Shi)
+From the Department of Industrial Systems Engineering and Management, National University of Singapore (S. Wang and A. Lim);
+SWJTU-Leeds Joint School and School of Computing and Artificial Intelligence, Southwest Jiaotong University (C. Li).
 
 
 ***Example01.m***
