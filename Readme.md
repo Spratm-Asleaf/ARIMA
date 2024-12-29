@@ -12,7 +12,7 @@ Online supplementary materials of the paper titled
 
 **Why Are the ARIMA and SARIMA not Sufficient?**
 
-$\textcolor{red}{\text{\textbf{Note}: The authors decided to keep this paper as a permanent preprint. The file "ARIMA.pdf" above is the authors' final version.}}$ 
+$\textcolor{red}{\text{\textbf{Note}: The authors decided to keep this paper as a permanent preprint. The file "ARIMA.pdf" above is our final version.}}$ 
 
 ([Click to See Final Version](https://github.com/Spratm-Asleaf/ARIMA/blob/main/ARIMA.pdf))
 
